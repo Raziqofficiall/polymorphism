@@ -24,4 +24,5 @@ class Polymorphism {
         AN.Landanimals();
         AN.Seaanimals();
     }
-}
+    
+  }
